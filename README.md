@@ -55,5 +55,17 @@ python download_audioset_samples.py
 
 ---
 
+
+
+http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/
+
+https://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html
+
+http://datagenetics.com/blog/november32012/index.html
+
+
+---
+
+
 好好学习，天天向上！ 
 

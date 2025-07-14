@@ -1,0 +1,10 @@
+# TensorFlow for Python 3.12 (Python 3.13 not yet supported)
+tensorflow>=2.16.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+soundfile>=0.13.0
+sounddevice>=0.5.2
+resampy>=0.4.3
+tensorflow-hub>=0.16.1
+requests>=2.32.0 
+
